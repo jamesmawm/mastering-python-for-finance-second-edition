@@ -1,0 +1,7 @@
+jupyter
+matplotlib
+quandl
+numpy
+pandas
+matplotlib
+mpl-finance
