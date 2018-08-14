@@ -1,4 +1,5 @@
-# Source codes for Mastering Python for Finance Second Edition
+#  Mastering Python for Finance Second Edition
+## Source codes
 
 Requirements:
 
