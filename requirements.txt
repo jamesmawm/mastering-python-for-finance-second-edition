@@ -7,4 +7,4 @@ matplotlib
 mpl-finance
 scikit-learn
 seaborn
-oandapyV20
+v20
