@@ -35,7 +35,7 @@ This book covers the following exciting features:
 ### Book info
 
 - 426 pages
-- Available on Paperback and Kindle.
+- Available on Paperback and Kindle
 - ISBN-10: 1789346460
 - ISBN-13: 978-1789346466
 
@@ -49,7 +49,6 @@ This book covers the following exciting features:
     - Performing financial analytics on time series data
 
 2. The Importance of Linearity in Finance
-
     - The Capital Asset Pricing Model and the security market line
     - The Arbitrage Pricing Theory model
     - Multivariate linear regression of factor models
@@ -126,17 +125,17 @@ This book covers the following exciting features:
 
 10. Machine Learning for Finance
 
-    - Introduction to machine learning
-    - Predicting prices with a single-asset regression model
-    - Predicting returns with a cross-asset momentum model
-    - Predicting trends with classification-based machine learning
-    - Conclusion on the use of machine learning algorithms
+- Introduction to machine learning
+- Predicting prices with a single-asset regression model
+- Predicting returns with a cross-asset momentum model
+- Predicting trends with classification-based machine learning
+- Conclusion on the use of machine learning algorithms
 
 11. Deep Learning for Finance
 
-    - A brief introduction to deep learning
-    - A deep learning price prediction model with TensorFlow
-    - Credit card payment default prediction with Keras
+- A brief introduction to deep learning
+- A deep learning price prediction model with TensorFlow
+- Credit card payment default prediction with Keras
 
 
 
