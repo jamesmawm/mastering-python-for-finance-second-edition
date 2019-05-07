@@ -27,8 +27,6 @@ This book covers the following exciting features:
 | 1-10     | Python 3.7                          | Windows, Mac OS X, and Linux (Any) |
 | 11       | Python 3.6                          | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789346466_ColorImages.pdf).
-
 
 ### Related links
 * See the sources codes for the first edition of [Mastering Python for Finance](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
