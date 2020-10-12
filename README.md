@@ -1,13 +1,23 @@
 # Mastering Python for Finance - Second Edition
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789346466"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11165.png" alt="Mastering Python for Finance - Second Edition" height="256px" align="right"></a>
+[<img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/b/1/b11165.png">](https://www.amazon.com/Mastering-Python-Finance-state-art/dp/1789346460/ref=as_li_ss_tl?dchild=1&keywords=mastering+python+for+finance&qid=1602520773&sr=8-1&linkCode=ll1&tag=mobile0a5082a-20&linkId=1762c7c9989b8ac635e5abf1e88b046e&language=en_US)
 
 This is the code repository for [Mastering Python for Finance - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789346466), published by Packt.
 
-This book is also available for purchase on [Amazon](https://www.amazon.com/dp/1789346460).
-
+This book is also available for purchase on [Amazon](https://amzn.to/3dmPfmx).
 
 **Implement advanced state-of-the-art financial statistical applications using Python**
+
+# Update on Oct 13, 2020
+
+There have been reports that certain market indices are no longer available for download from Alpha Vantage.
+
+It is not known when Alpha Vantage will resume its services.
+
+In the interim, equity symbols can be used in place, examples are MSFT, GOOG, IBM, and AAPL.
+As a result, the output values may vary from the book.
+
+A permanent solution would be to purchase accurate data from a data provider.
 
 ## What is this book about?
 The second edition of Mastering Python for Finance will guide you through carrying out complex financial calculations practiced in the industry of finance by using next-generation methodologies. You will master the Python ecosystem by leveraging publicly available tools to successfully perform research studies and modeling, and learn to manage risks with the help of advanced examples.
