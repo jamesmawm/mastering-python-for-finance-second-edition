@@ -8,3 +8,4 @@ mpl-finance
 scikit-learn
 seaborn
 v20
+jupyterlab>=4.4.8 # not directly required, pinned by Snyk to avoid a vulnerability
